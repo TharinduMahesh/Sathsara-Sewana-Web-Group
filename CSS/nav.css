@@ -1,0 +1,24 @@
+.btn-login-sec{
+    width:200px;
+    height:40px;
+    cursor:pointer;
+    border:none;
+    background: linear-gradient(rgba(25,25,255,0.4),rgba(25,25,255,0.4));
+    border-radius:20px;
+    font-size:20px;
+    color:#f8f8f8;
+    font-weight:600;
+    transition: 0.2s ease-in-out;
+}
+.login-div{
+    position: fixed;
+    left:1460px;
+}
+.login-btn:hover{
+    border: 2px solid rgba(25,25,255,0.4);
+    color:rgba(25,25,255,0.4);
+    background: transparent;
+}
+.signup-btn:hover{
+    letter-spacing: 5px;
+}

@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.row{
+    display:flex;
+    padding:10px;
+}
+.col-3{
+    flex-basis:33.3%;
+}
+.col-2{
+    flex-basis:50%;
+}
+.col-4{
+    flex-basis:25%;
+}
