@@ -12,7 +12,7 @@
 }
 .login-div{
     position: fixed;
-    left:1460px;
+    left:1000px;
 }
 .login-btn:hover{
     border: 2px solid rgba(25,25,255,0.4);
